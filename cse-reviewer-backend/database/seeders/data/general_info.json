@@ -1,0 +1,571 @@
+{
+  "meta": {
+    "title": "CSE Professional Reviewer — General Information",
+    "category": "general_info",
+    "version": "1.0",
+    "created": "2026-05-30",
+    "total": 30,
+    "totalPassageGroups": 0
+  },
+  "questions": [
+    {
+      "id": "gi-ph-0001",
+      "category": "general_info",
+      "subcategory": "philippine_constitution",
+      "difficulty": "easy",
+      "question": "Which of the following natural resources is reserved exclusively for the use and enjoyment of Filipino citizens?",
+      "choices": {
+        "a": "forests",
+        "b": "marine wealth",
+        "c": "lands",
+        "d": "minerals"
+      },
+      "answer": "c",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is C (lands). Under the Philippine Constitution, lands of the public domain are reserved exclusively for Filipino citizens. While forests, marine wealth, and minerals are also subject to restrictions, the question asks specifically which one is reserved exclusively for Filipinos — lands (particularly agricultural lands) have the strictest constitutional reservation.",
+      "source": "CSE Professional Reviewer — General Information"
+    },
+    {
+      "id": "gi-ph-0002",
+      "category": "general_info",
+      "subcategory": "philippine_constitution",
+      "difficulty": "easy",
+      "question": "What do you call the introductory part of the Constitution?",
+      "choices": {
+        "a": "Preface",
+        "b": "Amendments",
+        "c": "Preamble",
+        "d": "Bill of Rights"
+      },
+      "answer": "c",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is C (Preamble). The Preamble is the introductory part of the Constitution that states the goals and principles of the document. It begins with 'We, the sovereign Filipino people...'",
+      "source": "CSE Professional Reviewer — General Information"
+    },
+    {
+      "id": "gi-ph-0003",
+      "category": "general_info",
+      "subcategory": "philippine_constitution",
+      "difficulty": "easy",
+      "question": "What form of government does the Philippines adopt?",
+      "choices": {
+        "a": "Republican",
+        "b": "Democratic",
+        "c": "neither a nor b",
+        "d": "both a and b"
+      },
+      "answer": "d",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is D (both a and b). Article II, Section 1 of the 1987 Constitution states: 'The Philippines is a democratic and republican State. Sovereignty resides in the people and all government authority emanates from them.'",
+      "source": "CSE Professional Reviewer — General Information"
+    },
+    {
+      "id": "gi-ph-0004",
+      "category": "general_info",
+      "subcategory": "philippine_constitution",
+      "difficulty": "average",
+      "question": "What is the power of the State to take private property for public use upon payment of just compensation?",
+      "choices": {
+        "a": "right of confiscation",
+        "b": "right of limiting resources",
+        "c": "right of sequestration",
+        "d": "right of eminent domain"
+      },
+      "answer": "d",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is D (right of eminent domain). Eminent domain is the inherent power of the State to take private property for public use upon payment of just compensation. This is provided in Article III, Section 9 of the Constitution.",
+      "source": "CSE Professional Reviewer — General Information"
+    },
+    {
+      "id": "gi-ph-0005",
+      "category": "general_info",
+      "subcategory": "philippine_constitution",
+      "difficulty": "easy",
+      "question": "Who among the following may issue a warrant of arrest or a search warrant?",
+      "choices": {
+        "a": "a senator",
+        "b": "a judge",
+        "c": "a congressman",
+        "d": "the President"
+      },
+      "answer": "b",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is B (a judge). Under Article III, Section 2 of the Constitution, 'no search warrant or warrant of arrest shall issue except upon probable cause to be determined personally by the judge.'",
+      "source": "CSE Professional Reviewer — General Information"
+    },
+    {
+      "id": "gi-ph-0006",
+      "category": "general_info",
+      "subcategory": "philippine_constitution",
+      "difficulty": "easy",
+      "question": "A foreigner may acquire Filipino citizenship through",
+      "choices": {
+        "a": "naturalization",
+        "b": "extradition",
+        "c": "rebirth",
+        "d": "Visa application"
+      },
+      "answer": "a",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is A (naturalization). Naturalization is the legal process by which a foreign national voluntarily acquires citizenship of another country. Extradition is the surrender of a fugitive, rebirth is not a legal term for citizenship, and a visa only allows entry.",
+      "source": "CSE Professional Reviewer — General Information"
+    },
+    {
+      "id": "gi-ph-0007",
+      "category": "general_info",
+      "subcategory": "philippine_constitution",
+      "difficulty": "easy",
+      "question": "The right to vote is also known as",
+      "choices": {
+        "a": "suffrage",
+        "b": "naturalization",
+        "c": "democracy",
+        "d": "plebiscite"
+      },
+      "answer": "a",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is A (suffrage). Suffrage is the right to vote in public elections. Article V of the Constitution governs suffrage.",
+      "source": "CSE Professional Reviewer — General Information"
+    },
+    {
+      "id": "gi-ph-0008",
+      "category": "general_info",
+      "subcategory": "philippine_constitution",
+      "difficulty": "easy",
+      "question": "How many Senators are there in the Senate?",
+      "choices": {
+        "a": "twenty-five",
+        "b": "twenty-four",
+        "c": "twelve",
+        "d": "thirty"
+      },
+      "answer": "b",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is B (twenty-four). Article VI, Section 2 of the Constitution states: 'The Senate shall be composed of twenty-four Senators who shall be elected at large by the qualified voters of the Philippines.'",
+      "source": "CSE Professional Reviewer — General Information"
+    },
+    {
+      "id": "gi-ph-0009",
+      "category": "general_info",
+      "subcategory": "philippine_constitution",
+      "difficulty": "easy",
+      "question": "What is the minimum age requirement of a Senator?",
+      "choices": {
+        "a": "thirty",
+        "b": "twenty-five",
+        "c": "twenty",
+        "d": "thirty-five"
+      },
+      "answer": "d",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is D (thirty-five). Article VI, Section 3 of the Constitution requires that a Senator be 'at least thirty-five years of age on the day of the election.'",
+      "source": "CSE Professional Reviewer — General Information"
+    },
+    {
+      "id": "gi-ph-0010",
+      "category": "general_info",
+      "subcategory": "philippine_constitution",
+      "difficulty": "average",
+      "question": "Which of the following bills do not originate from the House of Representative?",
+      "choices": {
+        "a": "Appropriation bills",
+        "b": "Revenue or tariff bills",
+        "c": "Amnesty",
+        "d": "Private bills"
+      },
+      "answer": "c",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is C (Amnesty). Article VI, Section 24 of the Constitution states that appropriation, revenue, tariff, and private bills shall originate exclusively in the House of Representatives. Amnesty is granted by the President with the concurrence of Congress (Article VII, Section 19).",
+      "source": "CSE Professional Reviewer — General Information"
+    },
+    {
+      "id": "gi-ph-0011",
+      "category": "general_info",
+      "subcategory": "philippine_constitution",
+      "difficulty": "average",
+      "question": "The Members of the Lower House are",
+      "choices": {
+        "a": "elected by region and by party list.",
+        "b": "elected by region and appointed by the President.",
+        "c": "elected by district and party list.",
+        "d": "elected by district and appointed by the Senators."
+      },
+      "answer": "c",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is C (elected by district and party list). Article VI, Section 5 provides that the House of Representatives shall be composed of district representatives elected from legislative districts and party-list representatives elected through a party-list system.",
+      "source": "CSE Professional Reviewer — General Information"
+    },
+    {
+      "id": "gi-ph-0012",
+      "category": "general_info",
+      "subcategory": "philippine_constitution",
+      "difficulty": "easy",
+      "question": "The legislative power of the government shall be vested in the",
+      "choices": {
+        "a": "President",
+        "b": "Congress",
+        "c": "Supreme Court",
+        "d": "all of the above"
+      },
+      "answer": "b",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is B (Congress). Article VI, Section 1 states: 'The legislative power shall be vested in the Congress of the Philippines which shall consist of a Senate and a House of Representatives.'",
+      "source": "CSE Professional Reviewer — General Information"
+    },
+    {
+      "id": "gi-ph-0013",
+      "category": "general_info",
+      "subcategory": "philippine_constitution",
+      "difficulty": "average",
+      "question": "Which of the following may disqualify a person from running for Presidency?",
+      "choices": {
+        "a": "He is sixty years old on the day of the election.",
+        "b": "He lived abroad five years preceding the election.",
+        "c": "He has Filipino parents but was born in the United States.",
+        "d": "He is a registered voter."
+      },
+      "answer": "b",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is B. Under Article VII, Section 2, the President must be a natural-born citizen of the Philippines, a registered voter, able to read and write, at least 40 years old on election day, and a resident of the Philippines for at least ten years immediately preceding the election. Living abroad for five years would violate the residency requirement.",
+      "source": "CSE Professional Reviewer — General Information"
+    },
+    {
+      "id": "gi-ph-0014",
+      "category": "general_info",
+      "subcategory": "philippine_constitution",
+      "difficulty": "average",
+      "question": "Which of the following shows the transfer of power should the President be incapable of discharging his duties?",
+      "choices": {
+        "a": "President → Vice-President → Senate President → House Speaker",
+        "b": "President → Vice-President → Chief Justice → Senate President",
+        "c": "President → Vice-President → Chief Justice → House Speaker",
+        "d": "President → Vice-President → House Speaker → Senate President"
+      },
+      "answer": "a",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is A. Article VII, Section 7 provides that in case of death, permanent disability, removal from office, or resignation of the President, the Vice-President shall become President. If both are unavailable, the Senate President shall act as President, followed by the House Speaker.",
+      "source": "CSE Professional Reviewer — General Information"
+    },
+    {
+      "id": "gi-ph-0015",
+      "category": "general_info",
+      "subcategory": "philippine_constitution",
+      "difficulty": "average",
+      "question": "A member of the Supreme Court",
+      "choices": {
+        "a": "must have been for fifteen years or more, a judge of a lower court.",
+        "b": "must have been for ten years, a judge of the Court of Appeals.",
+        "c": "may not be a member of the Philippine Bar.",
+        "d": "may be a naturalized citizen."
+      },
+      "answer": "a",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is A. Article VIII, Section 7 requires that a member of the Supreme Court be a natural-born citizen of the Philippines, at least 40 years old, and have been for 15 years or more a judge of a lower court or engaged in the practice of law in the Philippines.",
+      "source": "CSE Professional Reviewer — General Information"
+    },
+    {
+      "id": "gi-ph-0016",
+      "category": "general_info",
+      "subcategory": "philippine_constitution",
+      "difficulty": "easy",
+      "question": "The Supreme Court is composed of",
+      "choices": {
+        "a": "a Chief Justice and fourteen Associate Justices.",
+        "b": "two Chief Justices and fourteen Associate Justices.",
+        "c": "a Chief Justice and twelve Associate Justices.",
+        "d": "a Chief Justice and an indefinite number of Associate Justices."
+      },
+      "answer": "a",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is A. Article VIII, Section 4 states: 'The Supreme Court shall be composed of a Chief Justice and fourteen Associate Justices.'",
+      "source": "CSE Professional Reviewer — General Information"
+    },
+    {
+      "id": "gi-ph-0017",
+      "category": "general_info",
+      "subcategory": "philippine_constitution",
+      "difficulty": "average",
+      "question": "Which of the following is a Constitutional Commission?",
+      "choices": {
+        "a": "Commission on Human Rights",
+        "b": "Philippine Commission on Good Government",
+        "c": "Civil Service Commission",
+        "d": "Commission on Natural Resources"
+      },
+      "answer": "c",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is C (Civil Service Commission). Article IX of the Constitution establishes three independent Constitutional Commissions: the Civil Service Commission, the Commission on Elections, and the Commission on Audit.",
+      "source": "CSE Professional Reviewer — General Information"
+    },
+    {
+      "id": "gi-ph-0018",
+      "category": "general_info",
+      "subcategory": "philippine_constitution",
+      "difficulty": "average",
+      "question": "What branch of government has the sole right to initiate all cases of impeachment?",
+      "choices": {
+        "a": "Senate",
+        "b": "Commission on Elections",
+        "c": "House of Representatives",
+        "d": "Judiciary"
+      },
+      "answer": "c",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is C (House of Representatives). Article XI, Section 3 provides that the House of Representatives has the exclusive power to initiate all cases of impeachment. The Senate tries impeachment cases.",
+      "source": "CSE Professional Reviewer — General Information"
+    },
+    {
+      "id": "gi-ph-0019",
+      "category": "general_info",
+      "subcategory": "philippine_constitution",
+      "difficulty": "average",
+      "question": "Which of the following is not removable from office by impeachment?",
+      "choices": {
+        "a": "Member of the Supreme Court",
+        "b": "Member of the Constitutional Commissions",
+        "c": "The Ombudsman",
+        "d": "Senators"
+      },
+      "answer": "d",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is D (Senators). Article XI, Section 2 lists impeachable officers: the President, Vice-President, Members of the Supreme Court, Members of Constitutional Commissions, and the Ombudsman. Senators are not impeachable; they are disciplined by their own house.",
+      "source": "CSE Professional Reviewer — General Information"
+    },
+    {
+      "id": "gi-ph-0020",
+      "category": "general_info",
+      "subcategory": "philippine_constitution",
+      "difficulty": "easy",
+      "question": "The national language of the Philippines is",
+      "choices": {
+        "a": "Pilipino",
+        "b": "English and Filipino",
+        "c": "Tagalog",
+        "d": "Filipino"
+      },
+      "answer": "d",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is D (Filipino). Article XIV, Section 6 states: 'The national language of the Philippines is Filipino. As it evolves, it shall be further developed and enriched on the basis of existing Philippine and other languages.'",
+      "source": "CSE Professional Reviewer — General Information"
+    },
+    {
+      "id": "gi-ph-0021",
+      "category": "general_info",
+      "subcategory": "philippine_constitution",
+      "difficulty": "average",
+      "question": "Who may propose any amendment to, or revision of the Constitution?",
+      "choices": {
+        "a": "Congress or a Constitutional Convention",
+        "b": "Congress and a Constitutional Convention",
+        "c": "Judiciary and Congress",
+        "d": "Judiciary and Constitutional Convention"
+      },
+      "answer": "a",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is A (Congress or a Constitutional Convention). Article XVII, Section 1 provides that amendments or revisions may be proposed by Congress (with a three-fourths vote of all members) or by a Constitutional Convention.",
+      "source": "CSE Professional Reviewer — General Information"
+    },
+    {
+      "id": "gi-ph-0022",
+      "category": "general_info",
+      "subcategory": "philippine_constitution",
+      "difficulty": "easy",
+      "question": "What tax is paid by individuals who derive compensation income?",
+      "choices": {
+        "a": "Value added tax",
+        "b": "Excise tax",
+        "c": "Income tax",
+        "d": "Real estate tax"
+      },
+      "answer": "c",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is C (Income tax). Income tax is levied on the income of individuals and entities, including compensation income (salaries, wages, commissions).",
+      "source": "CSE Professional Reviewer — General Information"
+    },
+    {
+      "id": "gi-ph-0023",
+      "category": "general_info",
+      "subcategory": "philippine_constitution",
+      "difficulty": "easy",
+      "question": "When is the deadline for filing income tax returns for every taxable year?",
+      "choices": {
+        "a": "April 15",
+        "b": "April 30",
+        "c": "March 15",
+        "d": "March 30"
+      },
+      "answer": "a",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is A (April 15). Under the National Internal Revenue Code, the deadline for filing annual income tax returns is April 15 of the following year.",
+      "source": "CSE Professional Reviewer — General Information"
+    },
+    {
+      "id": "gi-ph-0024",
+      "category": "general_info",
+      "subcategory": "philippine_constitution",
+      "difficulty": "easy",
+      "question": "Which of the following statements is true about taxes?",
+      "choices": {
+        "a": "It is a voluntary payment.",
+        "b": "It is payable both in cash and in kind.",
+        "c": "It is an enforced contribution.",
+        "d": "It is based on one's desire to pay."
+      },
+      "answer": "c",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is C (It is an enforced contribution). Taxes are mandatory, enforced contributions levied by the State to support government operations. They are not voluntary.",
+      "source": "CSE Professional Reviewer — General Information"
+    },
+    {
+      "id": "gi-ph-0025",
+      "category": "general_info",
+      "subcategory": "philippine_constitution",
+      "difficulty": "average",
+      "question": "What tax is imposed on one's right to transmit property at death, and is measured by the value of the property?",
+      "choices": {
+        "a": "Excise tax",
+        "b": "Withholding tax",
+        "c": "Donor's tax",
+        "d": "Estate tax"
+      },
+      "answer": "d",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is D (Estate tax). Estate tax is imposed on the transfer of property from a decedent to their heirs. Donor's tax applies to inter vivos (living) gifts.",
+      "source": "CSE Professional Reviewer — General Information"
+    },
+    {
+      "id": "gi-ph-0026",
+      "category": "general_info",
+      "subcategory": "philippine_constitution",
+      "difficulty": "average",
+      "question": "Which of the following is classified as being a 'Head of the Family' for income tax purposes?",
+      "choices": {
+        "a": "a married individual with dependents",
+        "b": "an unmarried individual with dependents",
+        "c": "a married individual without dependents",
+        "d": "an unmarried individual without dependents"
+      },
+      "answer": "b",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is B (an unmarried individual with dependents). Under Philippine tax law, a 'Head of the Family' is an unmarried individual who has one or more dependents living with and supported by them.",
+      "source": "CSE Professional Reviewer — General Information"
+    },
+    {
+      "id": "gi-ph-0027",
+      "category": "general_info",
+      "subcategory": "philippine_constitution",
+      "difficulty": "difficult",
+      "question": "What Act implements the mandate for the 'State to make essential goods, health and other social services available to all the people at affordable cost'?",
+      "choices": {
+        "a": "Land Reform Program",
+        "b": "Generics Act",
+        "c": "Resettlement Act",
+        "d": "Freedom Act"
+      },
+      "answer": "b",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is B (Generics Act). The Generics Act (Republic Act No. 6675) promotes the use of generic medicines to make essential drugs more affordable and accessible.",
+      "source": "CSE Professional Reviewer — General Information"
+    },
+    {
+      "id": "gi-ph-0028",
+      "category": "general_info",
+      "subcategory": "philippine_constitution",
+      "difficulty": "average",
+      "question": "Which of the following is true about elective local officials?",
+      "choices": {
+        "a": "The term of office is three years.",
+        "b": "Barangay officials' term of office is indefinite.",
+        "c": "An official may be reelected indefinitely.",
+        "d": "An official may not serve for less than three terms."
+      },
+      "answer": "a",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is A (The term of office is three years). Under the Local Government Code (RA 7160), elective local officials serve a term of three years. Barangay officials also serve three-year terms. There are term limits (maximum three consecutive terms).",
+      "source": "CSE Professional Reviewer — General Information"
+    },
+    {
+      "id": "gi-ph-0029",
+      "category": "general_info",
+      "subcategory": "philippine_constitution",
+      "difficulty": "average",
+      "question": "What may be classified as alienable lands of the public domain?",
+      "choices": {
+        "a": "forest",
+        "b": "mineral lands",
+        "c": "national park",
+        "d": "agricultural lands"
+      },
+      "answer": "d",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is D (agricultural lands). Article XII, Section 3 of the Constitution provides that agricultural lands of the public domain may be classified as alienable and disposable. Forests, mineral lands, and national parks are generally not alienable.",
+      "source": "CSE Professional Reviewer — General Information"
+    },
+    {
+      "id": "gi-ph-0030",
+      "category": "general_info",
+      "subcategory": "philippine_constitution",
+      "difficulty": "difficult",
+      "question": "What is the maximum equity for aliens in a corporation or association in the exploration development and utilization of natural resources?",
+      "choices": {
+        "a": "60%",
+        "b": "40%",
+        "c": "50%",
+        "d": "30%"
+      },
+      "answer": "b",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is B (40%). Article XII, Section 2 of the Constitution states that the exploration, development, and utilization of natural resources shall be under the full control and supervision of the State, and at least 60% of the capital of corporations or associations engaged in these activities must be owned by Filipino citizens, meaning aliens can own up to 40%.",
+      "source": "CSE Professional Reviewer — General Information"
+    },
+    {
+      "id": "gi-ph-0031",
+      "category": "general_info",
+      "subcategory": "philippine_constitution",
+      "difficulty": "easy",
+      "question": "What is recognized by the State as the foundation of the nation?",
+      "choices": {
+        "a": "barangay",
+        "b": "community",
+        "c": "family",
+        "d": "municipality"
+      },
+      "answer": "c",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is C (family). Article XV, Section 1 of the Constitution states: 'The State recognizes the Filipino family as the foundation of the nation.'",
+      "source": "CSE Professional Reviewer — General Information"
+    }
+  ],
+  "passageGroups": []
+}

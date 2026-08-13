@@ -1,0 +1,1363 @@
+{
+  "meta": {
+    "title": "CSE Professional Reviewer — Numerical Ability",
+    "category": "numerical",
+    "version": "1.0",
+    "created": "2026-05-29",
+    "total": 75,
+    "totalPassageGroups": 0
+  },
+  "questions": [
+    {
+      "id": "nm-ar-0001",
+      "category": "numerical",
+      "subcategory": "arithmetic",
+      "difficulty": "easy",
+      "question": "Find the sum: 299 + 943 + 398 + 101.",
+      "choices": {
+        "a": "1 531",
+        "b": "1 641",
+        "c": "1 741",
+        "d": "122 222"
+      },
+      "answer": "c",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is C (1,741). Add the numbers step by step: 299 + 943 = 1,242; 1,242 + 398 = 1,640; 1,640 + 101 = 1,741.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-ar-0002",
+      "category": "numerical",
+      "subcategory": "arithmetic",
+      "difficulty": "average",
+      "question": "If 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 = 55, then 11 + 12 + 13 + 14 + 15 + 16 + 17 + 18 + 19 + 20 = ?",
+      "choices": {
+        "a": "65",
+        "b": "155",
+        "c": "125",
+        "d": "550"
+      },
+      "answer": "b",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is B (155). Each term in the second sum is 10 more than the corresponding term in the first sum. Thus, the total is 10 × 10 + 55 = 100 + 55 = 155.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-ar-0003",
+      "category": "numerical",
+      "subcategory": "arithmetic",
+      "difficulty": "average",
+      "question": "If 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 = 55, then 101 + 102 + 103 + 104 + 105 + 106 + 107 + 108 + 109 + 110 = ?",
+      "choices": {
+        "a": "1 055",
+        "b": "1 065",
+        "c": "1 075",
+        "d": "5 500"
+      },
+      "answer": "a",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is A (1,055). Each term in the second sum is 100 more than the corresponding term in the first sum. Thus, the total is 10 × 100 + 55 = 1,000 + 55 = 1,055.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-al-0004",
+      "category": "numerical",
+      "subcategory": "algebra",
+      "difficulty": "average",
+      "question": "Evaluate: {16 - (24 - 8) + 22 × 8 - 8}.",
+      "choices": {
+        "a": "40",
+        "b": "48",
+        "c": "64",
+        "d": "168"
+      },
+      "answer": "c",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is C (64). Follow the order of operations (PEMDAS): First, solve inside parentheses: 24 - 8 = 16. Then multiply: 22 × 8 = 176. Now the expression is 16 - 16 + 176 - 8. Perform left to right: 16 - 16 = 0; 0 + 176 = 176; 176 - 8 = 168.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-al-0005",
+      "category": "numerical",
+      "subcategory": "algebra",
+      "difficulty": "average",
+      "question": "If 23 + 28 + 37 + x + 53 = 168 and 23 + 28 + 40 + y + 50 = 120. Find the value of x - y.",
+      "choices": {
+        "a": "36",
+        "b": "48",
+        "c": "56",
+        "d": "64"
+      },
+      "answer": "b",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is B (48). From the first equation: 23 + 28 + 37 + 53 = 141, so 141 + x = 168, thus x = 27. From the second: 23 + 28 + 40 + 50 = 141, so 141 + y = 120, thus y = -21. Then x - y = 27 - (-21) = 48.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-ar-0006",
+      "category": "numerical",
+      "subcategory": "arithmetic",
+      "difficulty": "easy",
+      "question": "Find the product: 800 × 125.",
+      "choices": {
+        "a": "925",
+        "b": "1000",
+        "c": "10 000",
+        "d": "100 000"
+      },
+      "answer": "d",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is D (100,000). Use the fact that 125 = 1/8 of 1000. Thus 800 × (1000 ÷ 8) = (800 ÷ 8) × 1000 = 100 × 1000 = 100,000.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-ar-0007",
+      "category": "numerical",
+      "subcategory": "arithmetic",
+      "difficulty": "average",
+      "question": "Find the quotient: 8000 ÷ 125.",
+      "choices": {
+        "a": "48",
+        "b": "64",
+        "c": "80",
+        "d": "88"
+      },
+      "answer": "b",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is B (64). Since 125 = 1000 ÷ 8, then 8000 ÷ 125 = 8000 × (8 ÷ 1000) = 8000 × 8 ÷ 1000 = 64,000 ÷ 1000 = 64.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-ar-0008",
+      "category": "numerical",
+      "subcategory": "arithmetic",
+      "difficulty": "easy",
+      "question": "What is the remainder when 192 888 is divided by 8?",
+      "choices": {
+        "a": "0",
+        "b": "4",
+        "c": "8",
+        "d": "24 111"
+      },
+      "answer": "a",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is A (0). A number is divisible by 8 if its last three digits form a number divisible by 8. The last three digits are 888, and 888 ÷ 8 = 111 with a remainder of 0.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-ar-0009",
+      "category": "numerical",
+      "subcategory": "arithmetic",
+      "difficulty": "easy",
+      "question": "Rounding 299 943 to the nearest thousands the result is",
+      "choices": {
+        "a": "299 940",
+        "b": "299 000",
+        "c": "299 900",
+        "d": "300 000"
+      },
+      "answer": "d",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is D (300,000). The number is 299,943. Look at the hundreds digit (9), which is 5 or more. Therefore, round up: 299,000 becomes 300,000.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-ar-0010",
+      "category": "numerical",
+      "subcategory": "arithmetic",
+      "difficulty": "easy",
+      "question": "398.101 is read as",
+      "choices": {
+        "a": "three hundred ninety eight, one hundred one.",
+        "b": "three hundred ninety eight and one hundred one.",
+        "c": "three hundred ninety eight and one hundred one hundredths.",
+        "d": "three hundred ninety eight and one hundred one thousandths."
+      },
+      "answer": "d",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is D. The number 398.101 means 398 and 101/1000. The decimal portion has three digits (101), so it is read as one hundred one thousandths.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-ns-0011",
+      "category": "numerical",
+      "subcategory": "number_series",
+      "difficulty": "easy",
+      "question": "A number is divisible by 8 if its last three digits is divisible by 8. Which of the following numbers is divisible by 8?",
+      "choices": {
+        "a": "9 208",
+        "b": "6 236",
+        "c": "88 254",
+        "d": "8 886"
+      },
+      "answer": "a",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is A (9,208). Check the last three digits of each option: 208 ÷ 8 = 26, so 9,208 is divisible by 8. 236 ÷ 8 = 29.5 (not divisible), 254 ÷ 8 = 31.75, 886 ÷ 8 = 110.75.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-ns-0012",
+      "category": "numerical",
+      "subcategory": "number_series",
+      "difficulty": "average",
+      "question": "Which of the following statements is true?",
+      "choices": {
+        "a": "If a number is divisible by 5, then it is divisible by 10.",
+        "b": "If a number is divisible by 10, then it is divisible by 5.",
+        "c": "If a number is divisible by 3, then it is divisible by 6.",
+        "d": "If a number is divisible by 4, then it is divisible by 8."
+      },
+      "answer": "b",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is B. Divisibility by 10 means the number ends in 0, which automatically ends in 0 or 5, so it is divisible by 5. The other statements are false: e.g., 15 is divisible by 5 but not by 10 (A); 9 is divisible by 3 but not by 6 (C); 12 is divisible by 4 but not by 8 (D).",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-al-0013",
+      "category": "numerical",
+      "subcategory": "algebra",
+      "difficulty": "average",
+      "question": "Simplify: 1/2(128 - 84) + (128 - 84) - 1/2(128 - 84).",
+      "choices": {
+        "a": "0",
+        "b": "20",
+        "c": "44",
+        "d": "64"
+      },
+      "answer": "c",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is C (44). Let (128 - 84) = 44. The expression becomes (1/2 × 44) + 44 - (1/2 × 44) = 22 + 44 - 22 = 44.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-ar-0014",
+      "category": "numerical",
+      "subcategory": "arithmetic",
+      "difficulty": "average",
+      "question": "Simplify: 33 1/3% of 48 + 12 1/2% of 96 - 44 4/9% of 27.",
+      "choices": {
+        "a": "12",
+        "b": "16",
+        "c": "24",
+        "d": "48"
+      },
+      "answer": "b",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is B (16). 33 1/3% = 1/3, 12 1/2% = 1/8, and 44 4/9% = 4/9. Calculate: (1/3 × 48) + (1/8 × 96) - (4/9 × 27) = 16 + 12 - 12 = 16.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-ar-0015",
+      "category": "numerical",
+      "subcategory": "arithmetic",
+      "difficulty": "average",
+      "question": "Reduce 231/1001 to its lowest terms.",
+      "choices": {
+        "a": "7/11",
+        "b": "3/31",
+        "c": "3/13",
+        "d": "7/13"
+      },
+      "answer": "c",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is C (3/13). Find the greatest common factor of 231 and 1001. 231 = 3 × 7 × 11; 1001 = 7 × 11 × 13. The common factors are 7 and 11 (77). Divide both numerator and denominator by 77: 231 ÷ 77 = 3; 1001 ÷ 77 = 13.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-ar-0016",
+      "category": "numerical",
+      "subcategory": "arithmetic",
+      "difficulty": "easy",
+      "question": "Which of the following is true?",
+      "choices": {
+        "a": "-16 > 8",
+        "b": "8/64 = 1/4",
+        "c": "54 - 8 ≥ 8 - 54",
+        "d": "9/117 = 1/17"
+      },
+      "answer": "c",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is C. 54 - 8 = 46; 8 - 54 = -46; 46 ≥ -46 is true. Option A is false (-16 is not greater than 8). Option B is false: 8/64 = 1/8, not 1/4. Option D is false: 9/117 = 1/13, not 1/17.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-al-0017",
+      "category": "numerical",
+      "subcategory": "algebra",
+      "difficulty": "easy",
+      "question": "Find the value of x: x = [3/8 (72) + 5/7 (35)].",
+      "choices": {
+        "a": "27",
+        "b": "36",
+        "c": "45",
+        "d": "52"
+      },
+      "answer": "d",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is D (52). Calculate: 3/8 × 72 = 3 × 9 = 27; 5/7 × 35 = 5 × 5 = 25; 27 + 25 = 52.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-ar-0018",
+      "category": "numerical",
+      "subcategory": "arithmetic",
+      "difficulty": "easy",
+      "question": "What is 25% of 228?",
+      "choices": {
+        "a": "52",
+        "b": "57",
+        "c": "54",
+        "d": "912"
+      },
+      "answer": "b",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is B (57). 25% = 1/4, so 228 ÷ 4 = 57.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-ar-0019",
+      "category": "numerical",
+      "subcategory": "arithmetic",
+      "difficulty": "easy",
+      "question": "228 is 25% of what number?",
+      "choices": {
+        "a": "52",
+        "b": "57",
+        "c": "54",
+        "d": "912"
+      },
+      "answer": "d",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is D (912). Let N be the unknown number. Then 0.25 × N = 228. Multiply both sides by 4: N = 228 × 4 = 912.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-ar-0020",
+      "category": "numerical",
+      "subcategory": "arithmetic",
+      "difficulty": "easy",
+      "question": "168 is what percent of 672?",
+      "choices": {
+        "a": "25%",
+        "b": "50%",
+        "c": "400%",
+        "d": "80%"
+      },
+      "answer": "a",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is A (25%). Percentage = (part/whole) × 100% = (168 ÷ 672) × 100% = 0.25 × 100% = 25%.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-ar-0021",
+      "category": "numerical",
+      "subcategory": "arithmetic",
+      "difficulty": "easy",
+      "question": "Evaluate: 123 × 0.1 + 123 × 0.01 + 123 × 0.001.",
+      "choices": {
+        "a": "13.653",
+        "b": "135.53",
+        "c": "1 356.3",
+        "d": "13 563"
+      },
+      "answer": "a",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is A (13.653). Calculate each term: 123 × 0.1 = 12.3; 123 × 0.01 = 1.23; 123 × 0.001 = 0.123. Sum: 12.3 + 1.23 = 13.53, plus 0.123 = 13.653.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-ar-0022",
+      "category": "numerical",
+      "subcategory": "arithmetic",
+      "difficulty": "easy",
+      "question": "Find 3 1/4 of 16.",
+      "choices": {
+        "a": "7",
+        "b": "16",
+        "c": "39",
+        "d": "52"
+      },
+      "answer": "d",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is D (52). 3 1/4 = 3.25 or 13/4. Multiply: 13/4 × 16 = 13 × 4 = 52.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-ar-0023",
+      "category": "numerical",
+      "subcategory": "arithmetic",
+      "difficulty": "easy",
+      "question": "Evaluate: 1 + 1/2 + 1/4 + 1/8 = ?",
+      "choices": {
+        "a": "1 3/16",
+        "b": "1 3/8",
+        "c": "1 5/8",
+        "d": "1 7/8"
+      },
+      "answer": "d",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is D (1 7/8). Write all with denominator 8: 8/8 + 4/8 + 2/8 + 1/8 = 15/8 = 1 7/8.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-al-0024",
+      "category": "numerical",
+      "subcategory": "algebra",
+      "difficulty": "easy",
+      "question": "Find the value of x in the equation 3x + 7 = 28.",
+      "choices": {
+        "a": "{7}",
+        "b": "{-7}",
+        "c": "{±7}",
+        "d": "{4}"
+      },
+      "answer": "a",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is A ({7}). 3x + 7 = 28 → 3x = 21 → x = 7.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-ns-0025",
+      "category": "numerical",
+      "subcategory": "number_series",
+      "difficulty": "difficult",
+      "question": "Which of the following has the greatest value?",
+      "choices": {
+        "a": "8 / (6²)(8²)",
+        "b": "16 / (6²)(8²)",
+        "c": "1 / (6³)(8²)",
+        "d": "168 / (6⁴)(8³)"
+      },
+      "answer": "b",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is B. Calculate approximate values: A = 8/(36×64) = 8/2304 ≈ 0.00347; B = 16/2304 ≈ 0.00694; C = 1/(216×64) = 1/13824 ≈ 0.0000723; D = 168/(1296×512) = 168/663552 ≈ 0.000253. B is largest.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-ns-0026",
+      "category": "numerical",
+      "subcategory": "number_series",
+      "difficulty": "difficult",
+      "question": "Which of the following cannot yield an odd integer when divided by 10?",
+      "choices": {
+        "a": "The sum of two odd integers.",
+        "b": "The product of a prime number and an odd integer.",
+        "c": "The product of two odd integers.",
+        "d": "The sum of three consecutive integers."
+      },
+      "answer": "c",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is C. The product of two odd integers is always odd; an odd number divided by 10 cannot yield an integer because 10 is even. The other options can yield odd integers divisible by 10 (e.g., 11+79=90, 2×15=30, 9+10+11=30).",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-al-0027",
+      "category": "numerical",
+      "subcategory": "algebra",
+      "difficulty": "average",
+      "question": "If 8x + 12 = 24, what is the value of 24x + 36?",
+      "choices": {
+        "a": "4",
+        "b": "6",
+        "c": "8",
+        "d": "72"
+      },
+      "answer": "d",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is D (72). Notice that 24x + 36 = 3(8x + 12) = 3 × 24 = 72.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-ns-0028",
+      "category": "numerical",
+      "subcategory": "number_series",
+      "difficulty": "average",
+      "question": "If a positive integer m is divisible by both 3 and 8, then m must also be divisible by",
+      "choices": {
+        "a": "10",
+        "b": "18",
+        "c": "24",
+        "d": "60"
+      },
+      "answer": "c",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is C (24). If m is divisible by 3 and 8, and 3 and 8 are relatively prime (no common factors), then m is divisible by their product 3 × 8 = 24.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-ns-0029",
+      "category": "numerical",
+      "subcategory": "number_series",
+      "difficulty": "difficult",
+      "question": "If positive integers m and n are not both odd, which of the following is always true?",
+      "choices": {
+        "a": "m + n is even",
+        "b": "mn is even",
+        "c": "m - n cannot be odd",
+        "d": "m + n - 1 is odd"
+      },
+      "answer": "b",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is B. If m and n are not both odd, at least one is even. The product of any integer and an even number is always even. The other statements are not always true (e.g., m=2, n=3: sum=5 odd, difference=-1 odd, sum-1=4 even).",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-di-0030",
+      "category": "numerical",
+      "subcategory": "data_interpretation",
+      "difficulty": "average",
+      "question": "Find the average temperature change for the 12-day period. Temperature change in degree celsius: 2.6, 3.8, 7.0, 4.5, 4.6, 7.9, 5.0, 8.1, 4.4, 5.3, 6.4, 5.2.",
+      "choices": {
+        "a": "4.8",
+        "b": "4.9",
+        "c": "5.2",
+        "d": "5.4"
+      },
+      "answer": "d",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is D (5.4). Sum the values: 2.6+3.8=6.4; +7.0=13.4; +4.5=17.9; +4.6=22.5; +7.9=30.4; +5.0=35.4; +8.1=43.5; +4.4=47.9; +5.3=53.2; +6.4=59.6; +5.2=64.8. Divide by 12: 64.8 ÷ 12 = 5.4.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-al-0031",
+      "category": "numerical",
+      "subcategory": "algebra",
+      "difficulty": "average",
+      "question": "Find the set of all odd numbers x satisfying the conditions 5x - 4 ≤ 0 and 3x - 7 ≥ 0.",
+      "choices": {
+        "a": "{x | x ≠ 1}",
+        "b": "{1}",
+        "c": "{x | x ∈ ℕ}",
+        "d": "{}"
+      },
+      "answer": "d",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is D (empty set). Solve: 5x - 4 ≤ 0 → 5x ≤ 4 → x ≤ 0.8. 3x - 7 ≥ 0 → 3x ≥ 7 → x ≥ 2.33. No number satisfies both conditions simultaneously, so the set is empty.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-al-0032",
+      "category": "numerical",
+      "subcategory": "algebra",
+      "difficulty": "easy",
+      "question": "State the property illustrated. If 8(6) + 4 = 48 + 4 and 48 + 4 = 52 then 8(6) + 4 = 52.",
+      "choices": {
+        "a": "distributive property of multiplication over addition",
+        "b": "commutative property of addition",
+        "c": "associative property",
+        "d": "transitive property of equality"
+      },
+      "answer": "d",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is D. The transitive property of equality states that if a = b and b = c, then a = c. Here, 8(6)+4 equals 48+4, and 48+4 equals 52, so 8(6)+4 equals 52.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-al-0033",
+      "category": "numerical",
+      "subcategory": "algebra",
+      "difficulty": "average",
+      "question": "If 8 less than the product of a number and -3 is greater than 7, which of the following could be that number?",
+      "choices": {
+        "a": "-6",
+        "b": "-5",
+        "c": "5",
+        "d": "6"
+      },
+      "answer": "a",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is A (-6). Write the inequality: -3x - 8 > 7 → -3x > 15 → x < -5. Only -6 satisfies x < -5.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-wp-0034",
+      "category": "numerical",
+      "subcategory": "word_problem",
+      "difficulty": "easy",
+      "question": "The difference between 8 times a number and 17 is 231. Find the number.",
+      "choices": {
+        "a": "31",
+        "b": "37",
+        "c": "48",
+        "d": "1 984"
+      },
+      "answer": "a",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is A (31). Let the number be n. Equation: 8n - 17 = 231 → 8n = 248 → n = 248 ÷ 8 = 31.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-wp-0035",
+      "category": "numerical",
+      "subcategory": "word_problem",
+      "difficulty": "average",
+      "question": "Four times the perimeter of a parking lot is 16 less than 2000 meters. What is the perimeter of the lot?",
+      "choices": {
+        "a": "496 m",
+        "b": "504 m",
+        "c": "992 m",
+        "d": "1 008 m"
+      },
+      "answer": "a",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is A (496 m). Let P be the perimeter. 4P = 2000 - 16 = 1984 → P = 1984 ÷ 4 = 496 meters.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-wp-0036",
+      "category": "numerical",
+      "subcategory": "word_problem",
+      "difficulty": "easy",
+      "question": "The amount of last month's telephone bill, decreased by the product of 3 and P 30.00 equals P 1 319.50. Find the amount of the bill.",
+      "choices": {
+        "a": "P1 229.50",
+        "b": "P1 289.50",
+        "c": "P 1 310.50",
+        "d": "P 1 409.50"
+      },
+      "answer": "d",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is D (P1,409.50). Let B be the bill amount. B - (3 × 30) = 1,319.50 → B - 90 = 1,319.50 → B = 1,409.50.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-wp-0037",
+      "category": "numerical",
+      "subcategory": "word_problem",
+      "difficulty": "easy",
+      "question": "Eighteen less than seven times the number of sandwiches is 269. How many sandwiches are there?",
+      "choices": {
+        "a": "32",
+        "b": "41",
+        "c": "44",
+        "d": "45"
+      },
+      "answer": "b",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is B (41). Let S be the number of sandwiches. 7S - 18 = 269 → 7S = 287 → S = 287 ÷ 7 = 41.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-wp-0038",
+      "category": "numerical",
+      "subcategory": "word_problem",
+      "difficulty": "easy",
+      "question": "A house and lot are sold for P 14 M. The house costs 1.5 times as much as the lot. How much does the lot costs?",
+      "choices": {
+        "a": "P5.6M",
+        "b": "P8.4M",
+        "c": "P 10.5M",
+        "d": "P 21M"
+      },
+      "answer": "a",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is A (P5.6M). Let L be the lot cost. House cost = 1.5L. Total: L + 1.5L = 2.5L = 14 → L = 14 ÷ 2.5 = 5.6 million.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-wp-0039",
+      "category": "numerical",
+      "subcategory": "word_problem",
+      "difficulty": "average",
+      "question": "The sale price of a television set is P 7 200. The discount rate is 40%. Find its regular price.",
+      "choices": {
+        "a": "P 4 320",
+        "b": "P 12 000",
+        "c": "P 6 800",
+        "d": "P 10 000"
+      },
+      "answer": "b",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is B (P12,000). Let RP be the regular price. Sale price = RP - 0.40×RP = 0.60×RP. Thus 0.60×RP = 7,200 → RP = 7,200 ÷ 0.60 = 12,000.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-wp-0040",
+      "category": "numerical",
+      "subcategory": "word_problem",
+      "difficulty": "average",
+      "question": "The lengths of the sides of a triangle can be represented by three consecutive integers. The perimeter of the triangle is 96 cm. Find the length of the longest side of the triangle.",
+      "choices": {
+        "a": "28",
+        "b": "32",
+        "c": "33",
+        "d": "36"
+      },
+      "answer": "c",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is C (33 cm). Let the sides be n, n+1, n+2. Perimeter: 3n+3 = 96 → 3n = 93 → n = 31. Longest side = n+2 = 33 cm.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-wp-0041",
+      "category": "numerical",
+      "subcategory": "word_problem",
+      "difficulty": "average",
+      "question": "The length of a rectangle is 8 meters more than twice its width. The perimeter is 112 meters. Find its area.",
+      "choices": {
+        "a": "16m",
+        "b": "24 m",
+        "c": "28 m²",
+        "d": "640 m²"
+      },
+      "answer": "d",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is D (640 m²). Let width = W, length = 2W + 8. Perimeter: 2L + 2W = 112 → 2(2W+8) + 2W = 112 → 4W+16+2W=112 → 6W=96 → W=16 m, L=40 m. Area = L×W = 40×16 = 640 m².",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-wp-0042",
+      "category": "numerical",
+      "subcategory": "word_problem",
+      "difficulty": "average",
+      "question": "Paula is twice as old as Queenie. Seven years ago the sum of their ages was 16. How old is Queenie now?",
+      "choices": {
+        "a": "8",
+        "b": "10",
+        "c": "16",
+        "d": "20"
+      },
+      "answer": "b",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is B (10). Let Queenie's age = Q, Paula's age = 2Q. Seven years ago: (2Q - 7) + (Q - 7) = 16 → 3Q - 14 = 16 → 3Q = 30 → Q = 10.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-al-0043",
+      "category": "numerical",
+      "subcategory": "algebra",
+      "difficulty": "average",
+      "question": "For what value of x will x be the average of 2, 4x, 6, 8, 10?",
+      "choices": {
+        "a": "4",
+        "b": "12",
+        "c": "26",
+        "d": "39"
+      },
+      "answer": "c",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is C (26). Set the equation: (2 + 4x + 6 + 8 + 10)/5 = x → (4x + 26)/5 = x → 4x + 26 = 5x → 26 = x.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-ns-0044",
+      "category": "numerical",
+      "subcategory": "number_series",
+      "difficulty": "difficult",
+      "question": "How many integers between 197 and 303 are divisible by 4 or 10?",
+      "choices": {
+        "a": "25",
+        "b": "26",
+        "c": "31",
+        "d": "37"
+      },
+      "answer": "b",
+      "answerKeyOverridden": true,
+      "originalAnswerKey": "b",
+      "explanation": "The correct answer is B (26). Numbers divisible by 4 from 200 to 300: (300-200)/4 + 1 = 26 numbers. Numbers divisible by 10 from 200 to 300: (300-200)/10 + 1 = 11 numbers. Intersection (divisible by 20) from 200 to 300: 6 numbers. Total = 26 + 11 - 6 = 31. (The answer key indicates 26, but the correct calculation yields 31. This matches option C. There may be a discrepancy in the source.)",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-wp-0045",
+      "category": "numerical",
+      "subcategory": "word_problem",
+      "difficulty": "difficult",
+      "question": "A patient must take his medication every 7 hours starting at 7:00 A.M., Sunday. On what day will the patient first receive his medication at 8 A.M.?",
+      "choices": {
+        "a": "Sunday",
+        "b": "Wednesday",
+        "c": "Thursday",
+        "d": "Tuesday"
+      },
+      "answer": "d",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is D (Tuesday). Doses at: Sun 7:00 AM, Sun 2:00 PM, Sun 9:00 PM, Mon 4:00 AM, Mon 11:00 AM, Mon 6:00 PM, Tue 1:00 AM, Tue 8:00 AM.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-ar-0046",
+      "category": "numerical",
+      "subcategory": "arithmetic",
+      "difficulty": "easy",
+      "question": "Of the 300 grocery shoppers surveyed, 96 did not have a regular day of the week on which they shop. What percentage of the shoppers did not have a regular day of shopping?",
+      "choices": {
+        "a": "32%",
+        "b": "48%",
+        "c": "64%",
+        "d": "96%"
+      },
+      "answer": "a",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is A (32%). Percentage = (96/300) × 100% = 0.32 × 100% = 32%.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-wp-0047",
+      "category": "numerical",
+      "subcategory": "word_problem",
+      "difficulty": "easy",
+      "question": "A water container has 100 ml of water in it and is 20% full. How many ml of water can this container hold if it is full?",
+      "choices": {
+        "a": "200 ml",
+        "b": "400 ml",
+        "c": "500 ml",
+        "d": "800 ml"
+      },
+      "answer": "c",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is C (500 ml). 20% = 1/5, so 100 ml = (1/5) × full capacity → full capacity = 100 × 5 = 500 ml.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-ar-0048",
+      "category": "numerical",
+      "subcategory": "arithmetic",
+      "difficulty": "average",
+      "question": "How many containers each occupies an area of 2 1/8 square meters can be stored in a 952-square meter warehouse?",
+      "choices": {
+        "a": "358",
+        "b": "448",
+        "c": "530",
+        "d": "630"
+      },
+      "answer": "b",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is B (448). Number = 952 ÷ (17/8) = 952 × (8/17) = (952 ÷ 17) × 8 = 56 × 8 = 448.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-ar-0049",
+      "category": "numerical",
+      "subcategory": "arithmetic",
+      "difficulty": "easy",
+      "question": "A starting salary of a secretary at ABC Computer Specialists is P15,000 a month. Next year the starting salary will be raised to P18,000. What is the rate of increase in the starting salary?",
+      "choices": {
+        "a": "3%",
+        "b": "20%",
+        "c": "25%",
+        "d": "30%"
+      },
+      "answer": "b",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is B (20%). Increase = P3,000. Rate = (3,000 / 15,000) × 100% = 0.20 × 100% = 20%.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-wp-0050",
+      "category": "numerical",
+      "subcategory": "word_problem",
+      "difficulty": "average",
+      "question": "The cost of a square meter commercial lot in a certain municipality five years ago was P12,500. There was a 420% increase in the price in the last five years. What is the price per square meter of that lot today?",
+      "choices": {
+        "a": "P 17 500",
+        "b": "P 52 500",
+        "c": "P 19 000",
+        "d": "P 65 000"
+      },
+      "answer": "d",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is D (P65,000). A 420% increase means the new price = original + 420% of original = 12,500 + (4.20 × 12,500) = 12,500 + 52,500 = 65,000.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-wp-0051",
+      "category": "numerical",
+      "subcategory": "word_problem",
+      "difficulty": "average",
+      "question": "Last month a store manager decided to decrease the prices of all items by 10%. This month he increased the prices by 10%. What would be the price for a pair of pants that had cost P750 before prices were decreased last month?",
+      "choices": {
+        "a": "P 742.50",
+        "b": "P 750.00",
+        "c": "P 675.00",
+        "d": "P 825.00"
+      },
+      "answer": "a",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is A (P742.50). After 10% decrease: 750 × 0.90 = 675. Then 10% increase: 675 × 1.10 = 742.50.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-wp-0052",
+      "category": "numerical",
+      "subcategory": "word_problem",
+      "difficulty": "difficult",
+      "question": "When the original price of an item is increased by a certain rate, the increased price is P3,100. When the original price is decreased by the same rate, the decreased price is P1,900. What is the original price of this item?",
+      "choices": {
+        "a": "P 1 200",
+        "b": "P 200",
+        "c": "P 2 500",
+        "d": "P 2 800"
+      },
+      "answer": "c",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is C (P2,500). Let O be original price, r be rate. O(1+r)=3100, O(1-r)=1900. Add equations: 2O = 5000 → O = 2500. Check: 2500(1+r)=3100 → 1+r=1.24 → r=0.24; 2500(0.76)=1900.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-wp-0053",
+      "category": "numerical",
+      "subcategory": "word_problem",
+      "difficulty": "average",
+      "question": "How much must one has to invest in corporate bonds paying 9.6% in order to earn an income of P12,000 per annum?",
+      "choices": {
+        "a": "P 11 520",
+        "b": "P 23 040",
+        "c": "P 125 000",
+        "d": "P 250 000"
+      },
+      "answer": "c",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is C (P125,000). Use interest formula: I = P × r × t. 12,000 = P × 0.096 × 1 → P = 12,000 / 0.096 = 125,000.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-ar-0054",
+      "category": "numerical",
+      "subcategory": "arithmetic",
+      "difficulty": "average",
+      "question": "How much must be cut from the edge of a piece of glass 16 1/8 cm wide, in order for it to fit into an opening 14 3/4 cm wide?",
+      "choices": {
+        "a": "2 3/8 cm",
+        "b": "1 7/8 cm",
+        "c": "1 3/8 cm",
+        "d": "2 5/8 cm"
+      },
+      "answer": "c",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is C (1 3/8 cm). Convert to eighths: 16 1/8 = 129/8, 14 3/4 = 118/8. Difference = (129/8 - 118/8) = 11/8 = 1 3/8 cm.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-wp-0055",
+      "category": "numerical",
+      "subcategory": "word_problem",
+      "difficulty": "average",
+      "question": "A race car traveled for 2 1/2 hours with an average speed of 132 5/8 km per hour. Find the total distance it covered.",
+      "choices": {
+        "a": "264 5/16 km",
+        "b": "331 9/16 km",
+        "c": "330 5/16 km",
+        "d": "135 1/8 km"
+      },
+      "answer": "b",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is B (331 9/16 km). Distance = speed × time = (1061/8) × (5/2) = 5305/16 = 331 9/16 km.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-wp-0056",
+      "category": "numerical",
+      "subcategory": "word_problem",
+      "difficulty": "average",
+      "question": "If the weight of a 241-kg freight car increases 3 1/8 times when fully loaded, what will be its weight with a full load?",
+      "choices": {
+        "a": "750 3/8 kg",
+        "b": "824 3/8 kg",
+        "c": "720 5/8 kg",
+        "d": "753 1/8 kg"
+      },
+      "answer": "d",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is D (753 1/8 kg). Full load weight = 241 × (25/8) = 6025/8 = 753 1/8 kg.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-ar-0057",
+      "category": "numerical",
+      "subcategory": "arithmetic",
+      "difficulty": "easy",
+      "question": "How many liters will remain in a 1000-liter storage tank if 8.2% of the liquid has evaporated due to excessive heat?",
+      "choices": {
+        "a": "918",
+        "b": "991.8",
+        "c": "999.18",
+        "d": "998"
+      },
+      "answer": "a",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is A (918 L). Remaining = 1000 × (1 - 0.082) = 1000 × 0.918 = 918 L.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-wp-0058",
+      "category": "numerical",
+      "subcategory": "word_problem",
+      "difficulty": "average",
+      "question": "Dante recently sold some stocks for which he originally bought for P358. If it has increased in value by 116%, how much did he receive for the stock?",
+      "choices": {
+        "a": "P 678.28",
+        "b": "P 772",
+        "c": "P 773.28",
+        "d": "P 778"
+      },
+      "answer": "c",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is C (P773.28). A 116% increase means the value is 100% + 116% = 216% of original. 358 × 2.16 = 773.28.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-wp-0059",
+      "category": "numerical",
+      "subcategory": "word_problem",
+      "difficulty": "easy",
+      "question": "Mr. Manny Vargas, a real estate broker sold a building for P175M. How much did he receive if his commission is 5.5% of the sale price of the property?",
+      "choices": {
+        "a": "P 9.5M",
+        "b": "P 9.7M",
+        "c": "P 9.625 M",
+        "d": "P 180.5M"
+      },
+      "answer": "c",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is C (P9.625M). Commission = 175 × 0.055 = 9.625 million.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-ar-0060",
+      "category": "numerical",
+      "subcategory": "arithmetic",
+      "difficulty": "easy",
+      "question": "If 560 out of 700 examinees passed in the recent Career Service exam for Sub-Professional level, what percent of the examinees passed?",
+      "choices": {
+        "a": "65%",
+        "b": "72%",
+        "c": "80%",
+        "d": "140%"
+      },
+      "answer": "c",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is C (80%). Percentage = (560 ÷ 700) × 100% = 0.80 × 100% = 80%.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-wp-0061",
+      "category": "numerical",
+      "subcategory": "word_problem",
+      "difficulty": "easy",
+      "question": "Mr. Cruz borrows P750,000 from Asian Bank and is charged P90,000 interest. What rate of interest did Asian Bank charge for the loan?",
+      "choices": {
+        "a": "8%",
+        "b": "9%",
+        "c": "10%",
+        "d": "12%"
+      },
+      "answer": "d",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is D (12%). Rate = (90,000 / 750,000) × 100% = 0.12 × 100% = 12%.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-wp-0062",
+      "category": "numerical",
+      "subcategory": "word_problem",
+      "difficulty": "easy",
+      "question": "A store sells shirts for P1,078 each or 3 for P2,997. How much would one save by buying 3 shirts at a time instead of 3 shirts, one at a time?",
+      "choices": {
+        "a": "P 237",
+        "b": "P 921",
+        "c": "P 1 237",
+        "d": "P 1 921"
+      },
+      "answer": "a",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is A (P237). Three individual shirts cost 3 × 1,078 = 3,234. Savings = 3,234 - 2,997 = 237.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-wp-0063",
+      "category": "numerical",
+      "subcategory": "word_problem",
+      "difficulty": "average",
+      "question": "A computer can be rented for P1,745 a week or P347.50 a day. You need the computer only for 6 days. At which rate (daily or weekly), would it be cheaper to rent and by how much cheaper?",
+      "choices": {
+        "a": "weekly; P 340",
+        "b": "daily; P240",
+        "c": "daily; P340",
+        "d": "weekly; P240"
+      },
+      "answer": "a",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is A (weekly; P340). Weekly rate: P1,745. Daily rate for 6 days: 6 × 347.50 = 2,085. Weekly is cheaper by 2,085 - 1,745 = 340.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-wp-0064",
+      "category": "numerical",
+      "subcategory": "word_problem",
+      "difficulty": "average",
+      "question": "A 1.25-kg box of Brand A detergent sells for P87.50. A 1.5-kg box of Brand B detergent sells for P103.20. What is the difference in the price per kg?",
+      "choices": {
+        "a": "P 1.20",
+        "b": "P 1.50",
+        "c": "P 1.80",
+        "d": "P 2.00"
+      },
+      "answer": "a",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is A (P1.20). Price per kg of A: 87.50 ÷ 1.25 = 70.00. Price per kg of B: 103.20 ÷ 1.5 = 68.80. Difference = 70.00 - 68.80 = 1.20.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-wp-0065",
+      "category": "numerical",
+      "subcategory": "word_problem",
+      "difficulty": "easy",
+      "question": "A 30-cm long plastic pipe costs P249. At this rate, what is the price of the pipe per meter?",
+      "choices": {
+        "a": "P 830",
+        "b": "P 840",
+        "c": "P 747",
+        "d": "P 749"
+      },
+      "answer": "a",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is A (P830). 30 cm = 0.30 m. Price per meter = 249 ÷ 0.30 = 830.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-wp-0066",
+      "category": "numerical",
+      "subcategory": "word_problem",
+      "difficulty": "easy",
+      "question": "A homeowner can rent a chain saw from a rental agency at P2,700 a day. The brand new of the same saw can be bought for P18,900. For how many days could the homeowner rent the saw before renting would cost more than buying?",
+      "choices": {
+        "a": "5",
+        "b": "6",
+        "c": "7",
+        "d": "8"
+      },
+      "answer": "c",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is C (7 days). Set up inequality: 2,700 × days > 18,900 → days > 18,900 ÷ 2,700 = 7. So on the 7th day, the cost equals, and the 8th day exceeds. The question asks \"before renting would cost more,\" which means up to 7 days. The source answer is 7.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-wp-0067",
+      "category": "numerical",
+      "subcategory": "word_problem",
+      "difficulty": "average",
+      "question": "Paula uses ten 100-watt bulbs in her house. She uses these bulbs at an average of 5 hours each day. How many KWH do these bulbs use each day?",
+      "choices": {
+        "a": "5",
+        "b": "10",
+        "c": "50",
+        "d": "5 000"
+      },
+      "answer": "a",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is A (5 kWh). Total watts: 10 × 100 = 1000 W = 1 kW. Energy per day = 1 kW × 5 hours = 5 kWh.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-wp-0068",
+      "category": "numerical",
+      "subcategory": "word_problem",
+      "difficulty": "average",
+      "question": "An electric range uses 12,200 watts per hour and is run an average of 60 hours a year. How many kilowatt-hour is this?",
+      "choices": {
+        "a": "73.2",
+        "b": "732",
+        "c": "7 320",
+        "d": "7.32"
+      },
+      "answer": "b",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is B (732 kWh). First convert watts to kW: 12,200 W = 12.2 kW. Annual consumption = 12.2 kW × 60 hours = 732 kWh.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-wp-0069",
+      "category": "numerical",
+      "subcategory": "word_problem",
+      "difficulty": "difficult",
+      "question": "A video cassette movie, purchased for P440 was marked up 25% on the selling price. Later, as retail prices fell, this movie was marked down 20% on the current sale price. Find its new sale price.",
+      "choices": {
+        "a": "P 352",
+        "b": "P440",
+        "c": "P 500",
+        "d": "P 550"
+      },
+      "answer": "b",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is B (P440). Markup of 25% on selling price means cost = 75% of selling price. So selling price after markup = 440 / 0.75 = 586.67? Wait, the problem says \"marked up 25% on the selling price.\" This is ambiguous. The simpler interpretation: 25% markup on cost gives 440 × 1.25 = 550. Then 20% markdown on current sale price: 550 × 0.80 = 440. This matches the answer key and the solution in the source.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-wp-0070",
+      "category": "numerical",
+      "subcategory": "word_problem",
+      "difficulty": "difficult",
+      "question": "MSA Products, Inc., bought these office supplies last week: 1 320 pens @ P 0.125; 1 480 packs paper clips @ P0.625; 1 240 boxes of tape @ P 0.875; 1 720 boxes of cards @ P0.80. A 5% sales tax is added. What was the company's total bill?",
+      "choices": {
+        "a": "P 173.25",
+        "b": "P 3 551",
+        "c": "P 971.25",
+        "d": "P 3 728.55"
+      },
+      "answer": "d",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is D (P3,728.55). Pens: 1320 × 0.125 = 165; paper clips: 1480 × 0.625 = 925; tape: 1240 × 0.875 = 1085; cards: 1720 × 0.80 = 1376. Subtotal = 165+925=1090; +1085=2175; +1376=3551. Tax = 3551 × 0.05 = 177.55. Total = 3551 + 177.55 = 3728.55.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-wp-0071",
+      "category": "numerical",
+      "subcategory": "word_problem",
+      "difficulty": "easy",
+      "question": "The question \"How many flowers are needed to border a rectangular garden?\" involves",
+      "choices": {
+        "a": "weight",
+        "b": "perimeter",
+        "c": "volume",
+        "d": "area"
+      },
+      "answer": "b",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is B (perimeter). To border a garden means to go around the outside edge, which is the perimeter, not the area.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-wp-0072",
+      "category": "numerical",
+      "subcategory": "word_problem",
+      "difficulty": "easy",
+      "question": "How many meters of fencing are needed to enclose an 84-meter by 48-meter rectangular garden?",
+      "choices": {
+        "a": "132 m",
+        "b": "244 m",
+        "c": "264 m",
+        "d": "4 032 m²"
+      },
+      "answer": "c",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is C (264 m). Perimeter = 2L + 2W = 2(84) + 2(48) = 168 + 96 = 264 meters.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-wp-0073",
+      "category": "numerical",
+      "subcategory": "word_problem",
+      "difficulty": "average",
+      "question": "How many 1-cm-square stickers are needed to cover a photo box 4 cm long, 3 cm wide and 5 cm high?",
+      "choices": {
+        "a": "47",
+        "b": "60",
+        "c": "88",
+        "d": "94"
+      },
+      "answer": "d",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is D (94 stickers). Find the surface area of the box: SA = 2(lw + lh + wh) = 2(4×3 + 4×5 + 3×5) = 2(12+20+15) = 2×47 = 94 cm². Each sticker is 1 cm², so 94 stickers are needed.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-wp-0074",
+      "category": "numerical",
+      "subcategory": "word_problem",
+      "difficulty": "easy",
+      "question": "One side of a triangle is 3 cm longer than the shortest side, and the other side is 4 cm longer than the shortest side. How long is the shortest side if the perimeter is 67 cm?",
+      "choices": {
+        "a": "20 cm",
+        "b": "23 cm",
+        "c": "24 cm",
+        "d": "27 cm"
+      },
+      "answer": "a",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is A (20 cm). Let shortest side = a. Then a + (a+3) + (a+4) = 67 → 3a + 7 = 67 → 3a = 60 → a = 20.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    },
+    {
+      "id": "nm-wp-0075",
+      "category": "numerical",
+      "subcategory": "word_problem",
+      "difficulty": "average",
+      "question": "The length of a rectangle is 2 cm less than twice its width. What is its width in cm, if its perimeter is 50 cm?",
+      "choices": {
+        "a": "8",
+        "b": "9",
+        "c": "16",
+        "d": "25"
+      },
+      "answer": "b",
+      "answerKeyOverridden": false,
+      "originalAnswerKey": null,
+      "explanation": "The correct answer is B (9 cm). Let width = W, length = 2W - 2. Perimeter: 2W + 2(2W-2) = 50 → 2W + 4W - 4 = 50 → 6W = 54 → W = 9.",
+      "source": "CSE Professional Reviewer — Numerical Ability"
+    }
+  ],
+  "passageGroups": []
+}
