@@ -22,6 +22,7 @@ return new class extends Migration
             $table->boolean('passed');
             $table->unsignedInteger('time_taken_sec');
             $table->timestamp('completed_at')->useCurrent();
+            $table->timestamps(); // ← Add this line
 
             $table->index('user_id');
             $table->index('guest_token');
